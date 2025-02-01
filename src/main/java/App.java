@@ -1,6 +1,6 @@
 /**
  * Hello world!
- * Used preview version of Java 21: https://openjdk.org/jeps/445:
+ * Used preview version of Java 21: <a href="https://openjdk.org/jeps/445">JEP-445</a>:
  */
 
 void main() {
